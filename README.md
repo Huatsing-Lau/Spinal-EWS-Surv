@@ -4,8 +4,8 @@
 ## Dependecies:
  This code depends on the follwing libraries:
  * lifelines
- * sksurv
- * sklearn
+ * sksurv==0.17.2
+ * sklearn==1.0.2
  * pycox
  * torchtuples
  * torch
