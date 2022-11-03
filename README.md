@@ -1,5 +1,6 @@
 # Spinal-EWS-Surv
  Code for the paper: Deep Learning Predict Survivals of Spinal and Pelvic Ewing’s sarcoma with the SEER Database.
+ https://journals.sagepub.com/doi/10.1177/21925682221134049
  
 ## Dependecies:
  This code depends on the follwing libraries:
